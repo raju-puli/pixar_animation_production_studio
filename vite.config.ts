@@ -9,6 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 export default defineConfig({
+  base: '/pixar_animation_production_studio/',
   plugins: [react(), tailwindcss()],
 
   resolve: {
@@ -25,3 +26,4 @@ export default defineConfig({
     watch: process.env.DISABLE_HMR === 'true' ? null : {},
   },
 });
+
