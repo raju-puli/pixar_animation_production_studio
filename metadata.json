@@ -1,0 +1,6 @@
+{
+  "name": "Pip & Dot - Pixar Animation Production Studio",
+  "description": "Complete production deck, AI video prompts, timed voiceover, and audio design for 'Pip & Dot', a 20-second 4K Pixar-style animated short.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
